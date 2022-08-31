@@ -1,0 +1,97 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "videojuegos": [
+    {
+      "nombre": "God of War",
+      "genero": "Accion",
+      "caratula": "https://files.soniccdn.com/files/2019/04/30/god%20of%20war.jpg",
+      "plataforma": "PS4, PC",
+      "produccion": "SantaMonica",
+      "fecha": "2022-04-13",
+      "precio": "40,90",
+      "descripcion": "God of War es la vuelta de Kratos a los videojuegos tras la trilogía original. Esta nueva entrega para PlayStation 4, si bien mantendrá varios de los ingredientes indivisibles de su jugabilidad, apostará por un nuevo comienzo para el personaje y una ambientación nórdica, ofreciéndonos una perspectiva más madura y realista de la mitología de dioses y monstruos milenarios habitual en la serie de títulos. En God of War, Kratos será un guerrero más curtido y pasivo, pues tendrá que desempeñar el rol de padre en un frío y hostil escenario, al que parece haberse retirado para olvidar su pasado.",
+      "id": 1
+    },
+    {
+      "nombre": "Mortal Kombat 11",
+      "genero": "Peleas",
+      "caratula": "https://as01.epimg.net/meristation/imagenes/2020/05/12/game_cover/125196571589272825.jpg",
+      "plataforma": "PS4, PC, Xbox One, Nintendo Switch",
+      "produccion": "NethelRealm",
+      "fecha": "2019-09-08",
+      "precio": "69.80",
+      "descripcion": "Mortal Kombat 11 es la nueva entrega de la violenta y salvaje saga de lucha de NetherRealm Studios para consolas y PC. Se trata de la undécima secuela de una serie de títulos de combate y peleas de marcada estructura 2D, que en esta ocasión, además de añadir los mejores gráficos de la serie y el gore más descarnado en los llamados Fatality, presentará luchadores clásicos y nuevos, más modos de juego y una oferta online que quiere marcar un antes y un después en los eSports.",
+      "id": 2
+    },
+    {
+      "nombre": "Resident Evil Village",
+      "genero": "Terror, Survival Horror, Shooter",
+      "caratula": "https://uvejuegos.com/img/caratulas/64645/Resident-Evil-Village-6773-1597925638.jpg",
+      "plataforma": "PS4, PC, Xbox, One",
+      "produccion": "Capcom",
+      "fecha": "2021-07-09",
+      "precio": "69.80",
+      "descripcion": "La historia se desarrolla en una región montañosa aislada alrededor de un pueblo y un castillo medieval en Europa del Este. Ethan y Mia Winters siguieron juntos después de los eventos de Resident Evil 7: Biohazard e intentaron seguir con sus vidas tres años después del incidente en Dulvey. Durante los eventos del juego, la hija de los Winters, Rosemary, es secuestrada por unos individuos, lo que obliga a Ethan a viajar al pueblo, un lugar donde ocurren extraños sucesos por la región con la aparición de extrañas criaturas y el control del castillo por la familia Dimitrescu quienes tienen extrañas habilidades, viéndose también las caras con un viejo amigo del incidente de Dulvey, Chris Redfield.",
+      "id": 3
+    },
+    {
+      "nombre": "GTA V",
+      "genero": "Accion",
+      "caratula": "https://www.mundogamers.com/new/img/fichs/243/platforms/big/553173eb-f9c8-43f7-b75b-7805b2217404.jpg",
+      "plataforma": "PS3, PS4, PC, Xbox One, Xbox 360",
+      "produccion": "Rockstar",
+      "fecha": "2013-05-06",
+      "precio": "25.80",
+      "descripcion": "La historia transcurre en la remodelada ciudad de Los Santos, donde Michael, Trevor y Franklin trabajan individualmente hasta que se cruzan sus vidas y empiezan a trabajar en equipo robando bancos o realizando trabajos para diversos personajes.",
+      "id": 4
+    },
+    {
+      "nombre": "God of War 1",
+      "genero": "Accion",
+      "caratula": "https://media.vandal.net/m/3268/200562215934_1.jpg",
+      "plataforma": "PS2, PS3, PS4",
+      "fecha": "2005-05-08",
+      "precio": "15.40",
+      "descripcion": "Es el primer juego en estrenarse y el tercero en términos cronológicos internos de la saga. El juego narra las aventuras de Kratos, un general espartano al servicio de los Dioses de la mitología griega. El desarrollo del juego gira en torno de la idea de la hibris (desmesura del orgullo y la arrogancia) de Kratos al rebelarse contra los dioses y su propio destino y la némesis a la cual se ve sometido, estando así en consonancia con la literatura griega clásica. Sin embargo, en este caso la hibris de Kratos no sólo no es castigada, sino que le supone una victoria y destino mayor del que él mismo había concebido.",
+      "id": 5
+    },
+    {
+      "nombre": "Resident evil 7",
+      "genero": "Terror, Survival Horror, Shooter",
+      "caratula": "https://uvejuegos.com/img/caratulas/57111/resident-evil-7-cover.jpg",
+      "plataforma": "PS4, PC, Xbox One",
+      "produccion": "Capcom",
+      "fecha": "2019-06-10",
+      "precio": "30.80",
+      "descripcion": "Este es un juego de survival-horror en el que los jugadores asumen el papel de Ethan, un hombre en busca de su esposa desaparecida en una mansión abandonada. Desde una perspectiva en primera persona con arma de fuego realista, gritos de dolor, y exagerados efectos de la salpicadura de sangre. A medida que los jugadores avanzan a través de la historia, escenas pueden representar casos de actos de gore e intensa de violencia: el brazo de un personaje desmembrado por una motosierra; pierna de un hombre cortado por la rodilla con una pala; un personaje empalado a través de la cara con una pala. Algunas áreas también muestran cuerpos mutilados que expuesta órganos/vísceras. Las palabras joder y mierda se escuchan en el diálogo.",
+      "id": 6
+    },
+    {
+      "nombre": "Gears of war",
+      "genero": "Accion, Shooter",
+      "caratula": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/855/public/media/image/2016/08/caratula-gears-war-3.jpg?itok=l626_2KD",
+      "plataforma": "PC, Xbox One",
+      "produccion": "Microsoft",
+      "fecha": "2010-02-06",
+      "precio": "15.50",
+      "descripcion": "Gears of War 3 toma lugar 18 meses después de los acontecimientos culminantes de Gears of War 2, el Hundimiento de Jacinto, el último asentamiento humano, y de la Hondonada, el hogar de la Horda Locust. Con ambos bandos desperdigados, se da un ambiente propicio para el apogeo de los Lambent, una subespecie creada a partir del contacto de organismos vivos con la Imulsión.\n\nSu fuerte presencia en la superficie amenaza con la extinción de ambos los Locust y los humanos.",
+      "id": 7
+    }
+  ]
+}

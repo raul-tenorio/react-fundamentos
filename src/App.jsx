@@ -2,10 +2,12 @@
 import {  BrowserRouter,  Routes,  Route } from "react-router-dom";
 import Dashboard from "./layout/Dashboard";
 import Login from "./layout/Login";
+import ActualizarVideojuego from "./paginas/ActualizarVideojuego";
 import FormularioLogin from "./paginas/FormularioLogin";
-import FundamentoUseEffect from "./paginas/FundamentoUseEffect";
-import FundamentoUseState from "./paginas/FundamentoUseState";
 import LandingPage from "./paginas/LandingPage";
+import ListarVideojuegos from "./paginas/ListarVideojuegos";
+import MostrarVideojuego from "./paginas/MostrarVideojuego";
+import NuevoVideojuego from "./paginas/NuevoVideojuego";
 
 
 function App() {
@@ -20,9 +22,11 @@ function App() {
           <Route index element={<FormularioLogin/>}/>
         </Route>
 
-        <Route path="/fundamentos" element={<Dashboard />}>
-          <Route path="usestate" element={<FundamentoUseState />} />
-          <Route path="useffect" element={<FundamentoUseEffect />} />
+        <Route path="/videojuegos" element={<Dashboard />}>
+        <Route index element={<ListarVideojuegos/>}/>
+          <Route path='detalle/:id' element={<MostrarVideojuego/>}/>
+          <Route path='nuevo' element={<NuevoVideojuego/>}/>
+          <Route path='editar/:id' element={<ActualizarVideojuego/>}/>
         </Route>
 
       </Routes>
